@@ -12,6 +12,12 @@ a {
 img {
     cursor: pointer;
 }
+.pages {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    
+}
 
 .flex-div {
     display: flex;
